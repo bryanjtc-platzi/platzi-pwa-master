@@ -1,6 +1,6 @@
 import 'isomorphic-fetch'
 
-const baseUrl = 'https://www.themealdb.com/api/json/v1/1'
+const baseUrl = 'https://www.themealdb.com/api/json/v2/1'
 
 export default {
   getLatest,
