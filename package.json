@@ -13,7 +13,7 @@
     "react-router-dom": "^6.0.0",
     "react-scripts": "4.0.3",
     "serve": "^13.0.2",
-    "workbox-webpack-plugin": "^6.3.0"
+    "workbox-webpack-plugin": "^6.4.1"
   },
   "scripts": {
     "preinstall": "npx npm-force-resolutions",
