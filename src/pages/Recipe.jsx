@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from "react";
 import { useParams } from "react-router-dom";
-import { Helmet } from "react-helmet";
+import { Helmet } from "react-helmet-async";
 import mealdb from "../mealdb-api";
 import RecipeIngredients from "../components/RecipeIngredients";
 import RecipeInstructions from "../components/RecipeInstructions";
