@@ -4,7 +4,7 @@ import Home from "./pages/Home";
 import Recipe from "./pages/Recipe";
 import Timer from "./pages/Timer";
 import IsOffline from "./components/IsOffline";
-import { HelmetProvider } from 'react-helmet-async';
+import { HelmetProvider } from '@dr.pogodin/react-helmet';
 import "./App.css";
 
 const App = () => {
