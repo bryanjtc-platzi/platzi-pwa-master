@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from "react-router-dom"
-import { Helmet } from 'react-helmet-async'
+import { Helmet } from '@dr.pogodin/react-helmet'
 import mealdb from '../mealdb-api'
 
 export default class Home extends React.Component {
