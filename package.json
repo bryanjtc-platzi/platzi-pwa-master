@@ -3,10 +3,10 @@
   "version": "0.2.0",
   "private": true,
   "dependencies": {
-    "@dr.pogodin/react-helmet": "3.0.2",
+    "@dr.pogodin/react-helmet": "3.0.4",
     "isomorphic-fetch": "3.0.0",
-    "react": "19.1.0",
-    "react-dom": "19.1.0",
+    "react": "19.1.1",
+    "react-dom": "19.1.1",
     "react-router-dom": "7.6.3"
   },
   "scripts": {
@@ -30,7 +30,7 @@
   "devDependencies": {
     "@vitejs/plugin-react": "4.6.0",
     "vite": "6.3.6",
-    "vite-plugin-pwa": "1.0.1"
+    "vite-plugin-pwa": "1.0.3"
   },
   "packageManager": "pnpm@10.11.0"
 }
