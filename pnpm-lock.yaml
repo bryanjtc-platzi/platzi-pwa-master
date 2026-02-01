@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@dr.pogodin/react-helmet':
-        specifier: 3.0.4
-        version: 3.0.4(react@19.1.1)
+        specifier: 3.0.5
+        version: 3.0.5(react@19.1.1)
       isomorphic-fetch:
         specifier: 3.0.0
         version: 3.0.0
@@ -549,8 +549,8 @@ packages:
     resolution: {integrity: sha512-0ZrskXVEHSWIqZM/sQZ4EV3jZJXRkio/WCxaqKZP1g//CEWEPSfeZFcms4XeKBCHU0ZKnIkdJeU/kF+eRp5lBg==}
     engines: {node: '>=6.9.0'}
 
-  '@dr.pogodin/react-helmet@3.0.4':
-    resolution: {integrity: sha512-TesfNpzO12qcbyqKyWGDIYTdwVxD3pJv75rE/zhKUq/k9yxeP0BpOdHQ5cc1zA3j/GyY7CuIZjAUXmsxqI1/yw==}
+  '@dr.pogodin/react-helmet@3.0.5':
+    resolution: {integrity: sha512-1nOTG6qxtr+Of4qlin/triEk0eahGh5/qJf1hRJKlrTPLDfxLVi6hopiVeeioPFYULbcI7i6tihrtlZT4u8+sg==}
     peerDependencies:
       react: '19'
 
@@ -2682,7 +2682,7 @@ snapshots:
       '@babel/helper-string-parser': 7.27.1
       '@babel/helper-validator-identifier': 7.28.5
 
-  '@dr.pogodin/react-helmet@3.0.4(react@19.1.1)':
+  '@dr.pogodin/react-helmet@3.0.5(react@19.1.1)':
     dependencies:
       '@babel/runtime': 7.28.6
       react: 19.1.1
