@@ -32,5 +32,5 @@
     "vite": "6.4.1",
     "vite-plugin-pwa": "1.2.0"
   },
-  "packageManager": "pnpm@10.11.0"
+  "packageManager": "pnpm@10.30.3"
 }
