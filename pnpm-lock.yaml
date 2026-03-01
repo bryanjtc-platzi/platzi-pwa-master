@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       '@dr.pogodin/react-helmet':
-        specifier: 3.0.5
-        version: 3.0.5(react@19.1.1)
+        specifier: 3.0.6
+        version: 3.0.6(react@19.1.1)
       isomorphic-fetch:
         specifier: 3.0.0
         version: 3.0.0
@@ -21,8 +21,8 @@ importers:
         specifier: 19.1.1
         version: 19.1.1(react@19.1.1)
       react-router-dom:
-        specifier: 7.13.0
-        version: 7.13.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+        specifier: 7.13.1
+        version: 7.13.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
     devDependencies:
       '@vitejs/plugin-react':
         specifier: 4.7.0
@@ -549,8 +549,8 @@ packages:
     resolution: {integrity: sha512-LwdZHpScM4Qz8Xw2iKSzS+cfglZzJGvofQICy7W7v4caru4EaAmyUuO6BGrbyQ2mYV11W0U8j5mBhd14dd3B0A==}
     engines: {node: '>=6.9.0'}
 
-  '@dr.pogodin/react-helmet@3.0.5':
-    resolution: {integrity: sha512-1nOTG6qxtr+Of4qlin/triEk0eahGh5/qJf1hRJKlrTPLDfxLVi6hopiVeeioPFYULbcI7i6tihrtlZT4u8+sg==}
+  '@dr.pogodin/react-helmet@3.0.6':
+    resolution: {integrity: sha512-RSxje6i2KS+Se4St0Idmisi3jCwHZDIEtBv+zQ1u0kzJeivzwoQHs54K2fJ//UsC7pQ45OsO+xhiKmvmJfx1YQ==}
     peerDependencies:
       react: '19'
 
@@ -1532,15 +1532,15 @@ packages:
     resolution: {integrity: sha512-z6F7K9bV85EfseRCp2bzrpyQ0Gkw1uLoCel9XBVWPg/TjRj94SkJzUTGfOa4bs7iJvBWtQG0Wq7wnI0syw3EBQ==}
     engines: {node: '>=0.10.0'}
 
-  react-router-dom@7.13.0:
-    resolution: {integrity: sha512-5CO/l5Yahi2SKC6rGZ+HDEjpjkGaG/ncEP7eWFTvFxbHP8yeeI0PxTDjimtpXYlR3b3i9/WIL4VJttPrESIf2g==}
+  react-router-dom@7.13.1:
+    resolution: {integrity: sha512-UJnV3Rxc5TgUPJt2KJpo1Jpy0OKQr0AjgbZzBFjaPJcFOb2Y8jA5H3LT8HUJAiRLlWrEXWHbF1Z4SCZaQjWDHw==}
     engines: {node: '>=20.0.0'}
     peerDependencies:
       react: '>=18'
       react-dom: '>=18'
 
-  react-router@7.13.0:
-    resolution: {integrity: sha512-PZgus8ETambRT17BUm/LL8lX3Of+oiLaPuVTRH3l1eLvSPpKO3AvhAEb5N7ihAFZQrYDqkvvWfFh9p0z9VsjLw==}
+  react-router@7.13.1:
+    resolution: {integrity: sha512-td+xP4X2/6BJvZoX6xw++A2DdEi++YypA69bJUV5oVvqf6/9/9nNlD70YO1e9d3MyamJEBQFEzk6mbfDYbqrSA==}
     engines: {node: '>=20.0.0'}
     peerDependencies:
       react: '>=18'
@@ -2616,7 +2616,7 @@ snapshots:
       '@babel/helper-string-parser': 7.27.1
       '@babel/helper-validator-identifier': 7.28.5
 
-  '@dr.pogodin/react-helmet@3.0.5(react@19.1.1)':
+  '@dr.pogodin/react-helmet@3.0.6(react@19.1.1)':
     dependencies:
       '@babel/runtime': 7.28.6
       react: 19.1.1
@@ -3544,13 +3544,13 @@ snapshots:
 
   react-refresh@0.17.0: {}
 
-  react-router-dom@7.13.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  react-router-dom@7.13.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
     dependencies:
       react: 19.1.1
       react-dom: 19.1.1(react@19.1.1)
-      react-router: 7.13.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
+      react-router: 7.13.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1)
 
-  react-router@7.13.0(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
+  react-router@7.13.1(react-dom@19.1.1(react@19.1.1))(react@19.1.1):
     dependencies:
       cookie: 1.1.1
       react: 19.1.1
