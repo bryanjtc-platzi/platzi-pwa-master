@@ -5,8 +5,8 @@
   "dependencies": {
     "@dr.pogodin/react-helmet": "3.1.1",
     "isomorphic-fetch": "3.0.0",
-    "react": "19.1.1",
-    "react-dom": "19.1.1",
+    "react": "19.2.4",
+    "react-dom": "19.2.4",
     "react-router-dom": "7.13.2"
   },
   "scripts": {
