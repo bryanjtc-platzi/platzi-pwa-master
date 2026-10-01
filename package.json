@@ -3,7 +3,7 @@
   "version": "0.2.0",
   "private": true,
   "dependencies": {
-    "@dr.pogodin/react-helmet": "3.2.3",
+    "@dr.pogodin/react-helmet": "3.3.2",
     "isomorphic-fetch": "3.0.0",
     "react": "19.2.8",
     "react-dom": "19.2.8",
